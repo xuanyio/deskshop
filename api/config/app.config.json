@@ -1,0 +1,4 @@
+{
+    "APP_PORT": 3000,
+    "DB_URI": "mongodb+srv://demo:demo@cluster0.5zgza.mongodb.net/deskshoptest"
+}
